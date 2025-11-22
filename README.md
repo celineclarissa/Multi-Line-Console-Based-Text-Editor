@@ -26,7 +26,7 @@ Build and design a simple but powerful multi-line editor requires handling many 
 * Refactoring: logic reuse or simplification based on the existing logic.
 * Variable scope: global, local and function parameters.
 * Coding styles: naming convention, meaningful names, comments, doc_string, etc.
-* Problem decomposition, clean dode, top-down design.
+* Problem decomposition, clean code, top-down design.
 * Functions (with parameters and return) for program structure and logic decomposition.
 * Standard objects: strings, numbers & lists.
 
